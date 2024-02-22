@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\asm1\asm1\bin\Debug\net8.0\asm1.exe
+C:\Users\ADMIN\source\repos\asm1\asm1\bin\Debug\net8.0\asm1.deps.json
+C:\Users\ADMIN\source\repos\asm1\asm1\bin\Debug\net8.0\asm1.runtimeconfig.json
+C:\Users\ADMIN\source\repos\asm1\asm1\bin\Debug\net8.0\asm1.dll
+C:\Users\ADMIN\source\repos\asm1\asm1\bin\Debug\net8.0\asm1.pdb
+C:\Users\ADMIN\source\repos\asm1\asm1\obj\Debug\net8.0\asm1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\asm1\asm1\obj\Debug\net8.0\asm1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\asm1\asm1\obj\Debug\net8.0\asm1.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\asm1\asm1\obj\Debug\net8.0\asm1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\asm1\asm1\obj\Debug\net8.0\asm1.dll
+C:\Users\ADMIN\source\repos\asm1\asm1\obj\Debug\net8.0\refint\asm1.dll
+C:\Users\ADMIN\source\repos\asm1\asm1\obj\Debug\net8.0\asm1.pdb
+C:\Users\ADMIN\source\repos\asm1\asm1\obj\Debug\net8.0\asm1.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\asm1\asm1\obj\Debug\net8.0\ref\asm1.dll
